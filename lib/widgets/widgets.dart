@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'pages/page001.dart';
 import 'pages/page002.dart';
+import 'pages/page003.dart';
 
 class WidgetPage {
   WidgetPage({
@@ -15,4 +16,5 @@ class WidgetPage {
 final widgetPages = <WidgetPage>[
   WidgetPage(title: 'SafeArea', widget: const Page001()),
   WidgetPage(title: 'Expanded', widget: const Page002()),
+  WidgetPage(title: 'Wrap', widget: const Page003()),
 ];
