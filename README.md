@@ -8,5 +8,6 @@
 | 3   | Wrap              | [YouTube](https://www.youtube.com/watch?v=z5iw2SeFx2M) | [Docs](https://api.flutter.dev/flutter/widgets/Wrap-class.html)              |
 | 4   | AnimatedContainer | [YouTube](https://www.youtube.com/watch?v=yI-8QHpGIP4) | [Docs](https://api.flutter.dev/flutter/widgets/AnimatedContainer-class.html) |
 | 5   | Opacity           | [YouTube](https://www.youtube.com/watch?v=9hltevOHQBw) | [Docs](https://api.flutter.dev/flutter/widgets/Opacity-class.html)           |
+| 6   | FutureBuilder     | [YouTube](https://www.youtube.com/watch?v=ek8ZPdWj4Qo) | [Docs](https://api.flutter.dev/flutter/widgets/FutureBuilder-class.html)     |
 
 <!-- | AAA | AAA         | YouTube                                                | Docs                                                                | -->

@@ -4,6 +4,7 @@ import 'pages/page002.dart';
 import 'pages/page003.dart';
 import 'pages/page004.dart';
 import 'pages/page005.dart';
+import 'pages/page006.dart';
 
 class WidgetPage {
   WidgetPage({
@@ -21,4 +22,5 @@ final widgetPages = <WidgetPage>[
   WidgetPage(title: 'Wrap', widget: const Page003()),
   WidgetPage(title: 'AnimatedContainer', widget: const Page004()),
   WidgetPage(title: 'Opacity', widget: const Page005()),
+  WidgetPage(title: 'FutureBuilder', widget: const Page006()),
 ];
