@@ -8,6 +8,7 @@ import 'pages/page006.dart';
 import 'pages/page007.dart';
 import 'pages/page008.dart';
 import 'pages/page009.dart';
+import 'pages/page010.dart';
 
 class WidgetPage {
   WidgetPage({
@@ -29,4 +30,5 @@ final widgetPages = <WidgetPage>[
   WidgetPage(title: 'FadeTransition', widget: const Page007()),
   WidgetPage(title: 'FloatingActionButton', widget: const Page008()),
   WidgetPage(title: 'PageView', widget: const Page009()),
+  WidgetPage(title: 'Table', widget: const Page010()),
 ];
