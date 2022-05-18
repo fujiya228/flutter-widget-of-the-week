@@ -9,6 +9,7 @@ import 'pages/page007.dart';
 import 'pages/page008.dart';
 import 'pages/page009.dart';
 import 'pages/page010.dart';
+import 'pages/page011.dart';
 
 class WidgetPage {
   WidgetPage({
@@ -31,4 +32,5 @@ final widgetPages = <WidgetPage>[
   WidgetPage(title: 'FloatingActionButton', widget: const Page008()),
   WidgetPage(title: 'PageView', widget: const Page009()),
   WidgetPage(title: 'Table', widget: const Page010()),
+  WidgetPage(title: 'SliverAppBar', widget: const Page011()),
 ];
