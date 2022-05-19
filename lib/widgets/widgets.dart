@@ -10,6 +10,7 @@ import 'pages/page008.dart';
 import 'pages/page009.dart';
 import 'pages/page010.dart';
 import 'pages/page011.dart';
+import 'pages/page012.dart';
 
 class WidgetPage {
   WidgetPage({
@@ -33,4 +34,5 @@ final widgetPages = <WidgetPage>[
   WidgetPage(title: 'PageView', widget: const Page009()),
   WidgetPage(title: 'Table', widget: const Page010()),
   WidgetPage(title: 'SliverAppBar', widget: const Page011()),
+  WidgetPage(title: 'SliverList & SliverGrid', widget: const Page012()),
 ];
