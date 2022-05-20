@@ -15,5 +15,6 @@
 | 10  | Table                   | [YouTube](https://www.youtube.com/watch?v=_lbE0wsVZSw) | [Docs](https://api.flutter.dev/flutter/widgets/Table-class.html)                 |
 | 11  | SliverAppBar            | [YouTube](https://www.youtube.com/watch?v=R9C5KMJKluE) | [Docs](https://api.flutter.dev/flutter/material/SliverAppBar-class.html)         |
 | 12  | SliverList & SliverGrid | [YouTube](https://www.youtube.com/watch?v=ORiTTaVY6mM) | [Docs](https://api.flutter.dev/flutter/widgets/SliverList-class.html)            |
+| 13  | FadeInImage             | [YouTube](https://www.youtube.com/watch?v=pK738Pg9cxc) | [Docs](https://api.flutter.dev/flutter/widgets/FadeInImage-class.html)           |
 
 <!-- | AAA | AAA         | YouTube                                                | Docs                                                                | -->
