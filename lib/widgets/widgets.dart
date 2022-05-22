@@ -12,6 +12,7 @@ import 'pages/page010.dart';
 import 'pages/page011.dart';
 import 'pages/page012.dart';
 import 'pages/page013.dart';
+import 'pages/page014.dart';
 
 class WidgetPage {
   WidgetPage({
@@ -37,4 +38,5 @@ final widgetPages = <WidgetPage>[
   WidgetPage(title: 'SliverAppBar', widget: const Page011()),
   WidgetPage(title: 'SliverList & SliverGrid', widget: const Page012()),
   WidgetPage(title: 'FadeInImage', widget: const Page013()),
+  WidgetPage(title: 'StreamBuilder', widget: const Page014()),
 ];
