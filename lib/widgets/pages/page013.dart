@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:transparent_image/transparent_image.dart';
 import '../back_page_button.dart';
-import '../page_list_tile.dart';
 
 class Page013 extends StatefulWidget {
   const Page013({
