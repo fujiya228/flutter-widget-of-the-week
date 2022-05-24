@@ -18,5 +18,6 @@
 | 13  | FadeInImage             | [YouTube](https://www.youtube.com/watch?v=pK738Pg9cxc) | [Docs](https://api.flutter.dev/flutter/widgets/FadeInImage-class.html)           |
 | 14  | StreamBuilder           | [YouTube](https://www.youtube.com/watch?v=MkKEWHfy99Y) | [Docs](https://api.flutter.dev/flutter/widgets/StreamBuilder-class.html)         |
 | 15  | InheritedModel          | [YouTube](https://www.youtube.com/watch?v=ml5uefGgkaA) | [Docs](https://api.flutter.dev/flutter/widgets/InheritedModel-class.html)        |
+| 16  | ClipRRect               | [YouTube](https://www.youtube.com/watch?v=eI43jkQkrvs) | [Docs](https://api.flutter.dev/flutter/widgets/ClipRRect-class.html)             |
 
 <!-- | AAA | AAA         | YouTube                                                | Docs                                                                | -->
