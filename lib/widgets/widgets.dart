@@ -15,6 +15,7 @@ import 'pages/page013.dart';
 import 'pages/page014.dart';
 import 'pages/page015.dart';
 import 'pages/page016.dart';
+import 'pages/page017.dart';
 
 class WidgetPage {
   WidgetPage({
@@ -27,6 +28,7 @@ class WidgetPage {
 }
 
 final widgetPages = <WidgetPage>[
+  WidgetPage(title: 'No. 017 Hero', widget: const Page017()),
   WidgetPage(title: 'No. 016 ClipRRect', widget: const Page016()),
   WidgetPage(title: 'No. 015 InheritedModel', widget: const Page015()),
   WidgetPage(title: 'No. 014 StreamBuilder', widget: const Page014()),
