@@ -21,5 +21,6 @@
 | 16  | ClipRRect               | [YouTube](https://www.youtube.com/watch?v=eI43jkQkrvs) | [Docs](https://api.flutter.dev/flutter/widgets/ClipRRect-class.html)             |
 | 17  | Hero                    | [YouTube](https://www.youtube.com/watch?v=Be9UH1kXFDw) | [Docs](https://api.flutter.dev/flutter/widgets/Hero-class.html)                  |
 | 18 | CustomPaint         | [YouTube](https://www.youtube.com/watch?v=kp14Y4uHpHs)                                                | [Docs](https://api.flutter.dev/flutter/widgets/CustomPaint-class.html)                                                                |
+| 19 | Tooltip         | [YouTube](https://www.youtube.com/watch?v=EeEfD5fI-5Q)                                                | [Docs](https://api.flutter.dev/flutter/material/Tooltip-class.html)                                                                |
 
 <!-- | AAA | AAA         | YouTube                                                | Docs                                                                | -->

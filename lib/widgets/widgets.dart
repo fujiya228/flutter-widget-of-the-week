@@ -17,6 +17,7 @@ import 'pages/page015.dart';
 import 'pages/page016.dart';
 import 'pages/page017.dart';
 import 'pages/page018.dart';
+import 'pages/page019.dart';
 
 class WidgetPage {
   WidgetPage({
@@ -29,6 +30,7 @@ class WidgetPage {
 }
 
 final widgetPages = <WidgetPage>[
+  WidgetPage(title: 'No. 019 Tooltip', widget: const Page019()),
   WidgetPage(title: 'No. 018 CustomPaint', widget: const Page018()),
   WidgetPage(title: 'No. 017 Hero', widget: const Page017()),
   WidgetPage(title: 'No. 016 ClipRRect', widget: const Page016()),
