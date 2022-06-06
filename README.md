@@ -23,5 +23,6 @@
 | 18  | CustomPaint             | [YouTube](https://www.youtube.com/watch?v=kp14Y4uHpHs) | [Docs](https://api.flutter.dev/flutter/widgets/CustomPaint-class.html)           |
 | 19  | Tooltip                 | [YouTube](https://www.youtube.com/watch?v=EeEfD5fI-5Q) | [Docs](https://api.flutter.dev/flutter/material/Tooltip-class.html)              |
 | 20  | FittedBox               | [YouTube](https://www.youtube.com/watch?v=T4Uehk3_wlY) | [Docs](https://api.flutter.dev/flutter/widgets/FittedBox-class.html)             |
+| 21 | LayoutBuilder         | [YouTube](https://www.youtube.com/watch?v=IYDVcriKjsw)                                                | [Docs](https://api.flutter.dev/flutter/widgets/LayoutBuilder-class.html)                                                                |
 
 <!-- | AAA | AAA         | YouTube                                                | Docs                                                                | -->
