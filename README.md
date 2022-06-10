@@ -26,5 +26,6 @@
 | 21  | LayoutBuilder           | [YouTube](https://www.youtube.com/watch?v=IYDVcriKjsw) | [Docs](https://api.flutter.dev/flutter/widgets/LayoutBuilder-class.html)         |
 | 22  | AbsorbPointer           | [YouTube](https://www.youtube.com/watch?v=65HoWqBboI8) | [Docs](https://api.flutter.dev/flutter/widgets/AbsorbPointer-class.html)         |
 | 23  | Transform               | [YouTube](https://www.youtube.com/watch?v=9z_YNlRlWfA) | [Docs](https://api.flutter.dev/flutter/widgets/Transform-class.html)             |
+| 24  | BackdropFilter          | [YouTube](https://www.youtube.com/watch?v=dYRs7Q1vfYI) | [Docs](https://api.flutter.dev/flutter/widgets/BackdropFilter-class.html)        |
 
 <!-- | AAA | AAA         | YouTube                                                | Docs                                                                | -->

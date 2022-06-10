@@ -22,6 +22,7 @@ import 'pages/page020.dart';
 import 'pages/page021.dart';
 import 'pages/page022.dart';
 import 'pages/page023.dart';
+import 'pages/page024.dart';
 
 class WidgetPage {
   WidgetPage({
@@ -34,6 +35,7 @@ class WidgetPage {
 }
 
 final widgetPages = <WidgetPage>[
+  WidgetPage(title: 'No. 024 BackdropFilter', widget: const Page024()),
   WidgetPage(title: 'No. 023 Transform', widget: const Page023()),
   WidgetPage(title: 'No. 022 AbsorbPointer', widget: const Page022()),
   WidgetPage(title: 'No. 021 LayoutBuilder', widget: const Page021()),
