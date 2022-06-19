@@ -26,6 +26,7 @@ import 'pages/page024.dart';
 import 'pages/page025.dart';
 import 'pages/page026.dart';
 import 'pages/page027.dart';
+import 'pages/page028.dart';
 
 class WidgetPage {
   WidgetPage({
@@ -38,6 +39,7 @@ class WidgetPage {
 }
 
 final widgetPages = <WidgetPage>[
+  WidgetPage(title: 'No. 028 Dismissible', widget: const Page028()),
   WidgetPage(title: 'No. 027 AnimatedBuilder', widget: const Page027()),
   WidgetPage(title: 'No. 026 Positioned', widget: const Page026()),
   WidgetPage(title: 'No. 025 Align', widget: const Page025()),
