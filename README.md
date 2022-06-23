@@ -31,5 +31,6 @@
 | 26  | Positioned              | [YouTube](https://www.youtube.com/watch?v=EgtPleVwxBQ) | [Docs](https://api.flutter.dev/flutter/widgets/Positioned-class.html)            |
 | 27  | AnimatedBuilder         | [YouTube](https://www.youtube.com/watch?v=N-RiyZlv8v8) | [Docs](https://api.flutter.dev/flutter/widgets/AnimatedBuilder-class.html)       |
 | 28  | Dismissible             | [YouTube](https://www.youtube.com/watch?v=iEMgjrfuc58) | [Docs](https://api.flutter.dev/flutter/widgets/Dismissible-class.html)           |
+| 29  | SizedBox                | [YouTube](https://www.youtube.com/watch?v=EHPu_DzRfqA) | [Docs](https://api.flutter.dev/flutter/widgets/SizedBox-class.html)              |
 
 <!-- | AAA | AAA         | YouTube                                                | Docs                                                                | -->
