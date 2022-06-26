@@ -29,6 +29,7 @@ import 'pages/page027.dart';
 import 'pages/page028.dart';
 import 'pages/page029.dart';
 import 'pages/page030.dart';
+import 'pages/page031.dart';
 
 class WidgetPage {
   WidgetPage({
@@ -41,6 +42,7 @@ class WidgetPage {
 }
 
 final widgetPages = <WidgetPage>[
+  WidgetPage(title: 'No. 031 Draggable', widget: const Page031()),
   WidgetPage(title: 'No. 030 ValueListenableBuilder', widget: const Page030()),
   WidgetPage(title: 'No. 029 SizedBox', widget: const Page029()),
   WidgetPage(title: 'No. 028 Dismissible', widget: const Page028()),
