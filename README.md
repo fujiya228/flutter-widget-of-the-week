@@ -36,5 +36,6 @@
 | 31  | Draggable               | [YouTube](https://www.youtube.com/watch?v=QzA4c4QHZCY) | [Docs](https://api.flutter.dev/flutter/widgets/Draggable-class.html)              |
 | 32  | AnimatedList            | [YouTube](https://www.youtube.com/watch?v=ZtfItHwFlZ8) | [Docs](https://api.flutter.dev/flutter/widgets/AnimatedList-class.html)           |
 | 33  | Flexible                | [YouTube](https://www.youtube.com/watch?v=CI7x0mAZiY0) | [Docs](https://api.flutter.dev/flutter/widgets/Flexible-class.html)               |
+| 34  | MediaQuery              | [YouTube](https://www.youtube.com/watch?v=A3WrA4zAaPw) | [Docs](https://api.flutter.dev/flutter/widgets/MediaQuery-class.html)             |
 
 <!-- | AAA | AAA         | YouTube                                                | Docs                                                                | -->
