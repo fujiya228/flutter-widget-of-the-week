@@ -37,5 +37,6 @@
 | 32  | AnimatedList            | [YouTube](https://www.youtube.com/watch?v=ZtfItHwFlZ8) | [Docs](https://api.flutter.dev/flutter/widgets/AnimatedList-class.html)           |
 | 33  | Flexible                | [YouTube](https://www.youtube.com/watch?v=CI7x0mAZiY0) | [Docs](https://api.flutter.dev/flutter/widgets/Flexible-class.html)               |
 | 34  | MediaQuery              | [YouTube](https://www.youtube.com/watch?v=A3WrA4zAaPw) | [Docs](https://api.flutter.dev/flutter/widgets/MediaQuery-class.html)             |
+| 35  | Spacer                  | [YouTube](https://www.youtube.com/watch?v=7FJgd7QN1zI) | [Docs](https://api.flutter.dev/flutter/widgets/Spacer-class.html)                 |
 
 <!-- | AAA | AAA         | YouTube                                                | Docs                                                                | -->
