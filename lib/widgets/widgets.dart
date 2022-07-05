@@ -34,6 +34,7 @@ import 'pages/page032.dart';
 import 'pages/page033.dart';
 import 'pages/page034.dart';
 import 'pages/page035.dart';
+import 'pages/page036.dart';
 
 class WidgetPage {
   WidgetPage({
@@ -46,6 +47,7 @@ class WidgetPage {
 }
 
 final widgetPages = <WidgetPage>[
+  WidgetPage(title: 'No. 036 InheritedWidget', widget: const Page036()),
   WidgetPage(title: 'No. 035 Spacer', widget: const Page035()),
   WidgetPage(title: 'No. 034 MediaQuery', widget: const Page034()),
   WidgetPage(title: 'No. 033 AnimatedList', widget: const Page033()),
