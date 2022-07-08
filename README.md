@@ -39,5 +39,6 @@
 | 34  | MediaQuery              | [YouTube](https://www.youtube.com/watch?v=A3WrA4zAaPw) | [Docs](https://api.flutter.dev/flutter/widgets/MediaQuery-class.html)             |
 | 35  | Spacer                  | [YouTube](https://www.youtube.com/watch?v=7FJgd7QN1zI) | [Docs](https://api.flutter.dev/flutter/widgets/Spacer-class.html)                 |
 | 36  | InheritedWidget         | [YouTube](https://www.youtube.com/watch?v=1t-8rBCGBYw) | [Docs](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)        |
+| 37  | AnimatedIcon            | [YouTube](https://www.youtube.com/watch?v=pJcbh8pbvJs) | [Docs](https://api.flutter.dev/flutter/material/AnimatedIcon-class.html)          |
 
 <!-- | AAA | AAA         | YouTube                                                | Docs                                                                | -->
