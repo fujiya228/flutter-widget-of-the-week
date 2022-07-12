@@ -37,6 +37,7 @@ import 'pages/page035.dart';
 import 'pages/page036.dart';
 import 'pages/page037.dart';
 import 'pages/page038.dart';
+import 'pages/page039.dart';
 
 class WidgetPage {
   WidgetPage({
@@ -49,6 +50,7 @@ class WidgetPage {
 }
 
 final widgetPages = <WidgetPage>[
+  WidgetPage(title: 'No. 039 LimitedBox', widget: const Page039()),
   WidgetPage(title: 'No. 038 AspectRatio', widget: const Page038()),
   WidgetPage(title: 'No. 037 AnimatedIcon', widget: const Page037()),
   WidgetPage(title: 'No. 036 InheritedWidget', widget: const Page036()),

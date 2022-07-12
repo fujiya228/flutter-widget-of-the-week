@@ -41,5 +41,6 @@
 | 36  | InheritedWidget         | [YouTube](https://www.youtube.com/watch?v=1t-8rBCGBYw) | [Docs](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)        |
 | 37  | AnimatedIcon            | [YouTube](https://www.youtube.com/watch?v=pJcbh8pbvJs) | [Docs](https://api.flutter.dev/flutter/material/AnimatedIcon-class.html)          |
 | 38  | AspectRatio             | [YouTube](https://www.youtube.com/watch?v=XcnP3_mO_Ms) | [Docs](https://api.flutter.dev/flutter/widgets/AspectRatio-class.html)            |
+| 39  | LimitedBox              | [YouTube](https://www.youtube.com/watch?v=uVki2CIzBTs) | [Docs](https://api.flutter.dev/flutter/widgets/LimitedBox-class.html)             |
 
 <!-- | AAA | AAA         | YouTube                                                | Docs                                                                | -->
