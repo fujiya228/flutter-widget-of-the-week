@@ -60,7 +60,7 @@ final widgetPages = <WidgetPage>[
   WidgetPage(title: 'No. 036 InheritedWidget', widget: const Page036()),
   WidgetPage(title: 'No. 035 Spacer', widget: const Page035()),
   WidgetPage(title: 'No. 034 MediaQuery', widget: const Page034()),
-  WidgetPage(title: 'No. 033 AnimatedList', widget: const Page033()),
+  WidgetPage(title: 'No. 033 Flexible', widget: const Page033()),
   WidgetPage(title: 'No. 032 AnimatedList', widget: const Page032()),
   WidgetPage(title: 'No. 031 Draggable', widget: const Page031()),
   WidgetPage(title: 'No. 030 ValueListenableBuilder', widget: const Page030()),
