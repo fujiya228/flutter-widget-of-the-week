@@ -45,5 +45,6 @@
 | 40  | Placeholder             | [YouTube](https://www.youtube.com/watch?v=LPe56fezmoo) | [Docs](https://api.flutter.dev/flutter/widgets/Placeholder-class.html)            |
 | 41  | RichText                | [YouTube](https://www.youtube.com/watch?v=rykDVh-QFfw) | [Docs](https://api.flutter.dev/flutter/widgets/RichText-class.html)               |
 | 42  | ReorderableListView     | [YouTube](https://www.youtube.com/watch?v=3fB1mxOsqJE) | [Docs](https://api.flutter.dev/flutter/material/ReorderableListView-class.html)   |
+| 43  | AnimatedSwitcher        | [YouTube](https://www.youtube.com/watch?v=2W7POjFb88g) | [Docs](https://api.flutter.dev/flutter/widgets/AnimatedSwitcher-class.html)       |
 
 <!-- | AAA | AAA         | YouTube                                                | Docs                                                                | -->
