@@ -47,5 +47,6 @@
 | 42  | ReorderableListView     | [YouTube](https://www.youtube.com/watch?v=3fB1mxOsqJE) | [Docs](https://api.flutter.dev/flutter/material/ReorderableListView-class.html)   |
 | 43  | AnimatedSwitcher        | [YouTube](https://www.youtube.com/watch?v=2W7POjFb88g) | [Docs](https://api.flutter.dev/flutter/widgets/AnimatedSwitcher-class.html)       |
 | 44  | AnimatedPositioned      | [YouTube](https://www.youtube.com/watch?v=hC3s2YdtWt8) | [Docs](https://api.flutter.dev/flutter/widgets/AnimatedPositioned-class.html)     |
+| 45  | AnimatedPadding         | [YouTube](https://www.youtube.com/watch?v=PY2m0fhGNz4) | [Docs](https://api.flutter.dev/flutter/widgets/AnimatedPadding-class.html)        |
 
 <!-- | AAA | AAA         | YouTube                                                | Docs                                                                | -->
