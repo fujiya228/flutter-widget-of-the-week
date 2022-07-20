@@ -44,6 +44,7 @@ import 'pages/page042.dart';
 import 'pages/page043.dart';
 import 'pages/page044.dart';
 import 'pages/page045.dart';
+import 'pages/page046.dart';
 
 class WidgetPage {
   WidgetPage({
@@ -56,6 +57,7 @@ class WidgetPage {
 }
 
 final widgetPages = <WidgetPage>[
+  WidgetPage(title: 'No. 046 IndexedStack', widget: const Page046()),
   WidgetPage(title: 'No. 045 AnimatedPadding', widget: const Page045()),
   WidgetPage(title: 'No. 044 AnimatedPositioned', widget: const Page044()),
   WidgetPage(title: 'No. 043 AnimatedSwitcher', widget: const Page043()),

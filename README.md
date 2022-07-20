@@ -48,5 +48,6 @@
 | 43  | AnimatedSwitcher        | [YouTube](https://www.youtube.com/watch?v=2W7POjFb88g) | [Docs](https://api.flutter.dev/flutter/widgets/AnimatedSwitcher-class.html)       |
 | 44  | AnimatedPositioned      | [YouTube](https://www.youtube.com/watch?v=hC3s2YdtWt8) | [Docs](https://api.flutter.dev/flutter/widgets/AnimatedPositioned-class.html)     |
 | 45  | AnimatedPadding         | [YouTube](https://www.youtube.com/watch?v=PY2m0fhGNz4) | [Docs](https://api.flutter.dev/flutter/widgets/AnimatedPadding-class.html)        |
+| 46  | IndexedStack            | [YouTube](https://www.youtube.com/watch?v=_O0PPD1Xfbk) | [Docs](https://api.flutter.dev/flutter/widgets/IndexedStack-class.html)           |
 
 <!-- | AAA | AAA         | YouTube                                                | Docs                                                                | -->
