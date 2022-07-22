@@ -46,6 +46,7 @@ import 'pages/page044.dart';
 import 'pages/page045.dart';
 import 'pages/page046.dart';
 import 'pages/page047.dart';
+import 'pages/page048.dart';
 
 class WidgetPage {
   WidgetPage({
@@ -58,6 +59,7 @@ class WidgetPage {
 }
 
 final widgetPages = <WidgetPage>[
+  WidgetPage(title: 'No. 048 ConstrainedBox', widget: const Page048()),
   WidgetPage(title: 'No. 047 Semantics', widget: const Page047()),
   WidgetPage(title: 'No. 046 IndexedStack', widget: const Page046()),
   WidgetPage(title: 'No. 045 AnimatedPadding', widget: const Page045()),

@@ -50,5 +50,6 @@
 | 45  | AnimatedPadding         | [YouTube](https://www.youtube.com/watch?v=PY2m0fhGNz4) | [Docs](https://api.flutter.dev/flutter/widgets/AnimatedPadding-class.html)        |
 | 46  | IndexedStack            | [YouTube](https://www.youtube.com/watch?v=_O0PPD1Xfbk) | [Docs](https://api.flutter.dev/flutter/widgets/IndexedStack-class.html)           |
 | 47  | Semantics               | [YouTube](https://www.youtube.com/watch?v=NvtMt_DtFrQ) | [Docs](https://api.flutter.dev/flutter/widgets/Semantics-class.html)              |
+| 48  | ConstrainedBox          | [YouTube](https://www.youtube.com/watch?v=o2KveVr7adg) | [Docs](https://api.flutter.dev/flutter/widgets/ConstrainedBox-class.html)         |
 
 <!-- | AAA | AAA         | YouTube                                                | Docs                                                                | -->
