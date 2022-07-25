@@ -52,6 +52,6 @@
 | 47  | Semantics               | [YouTube](https://www.youtube.com/watch?v=NvtMt_DtFrQ) | [Docs](https://api.flutter.dev/flutter/widgets/Semantics-class.html)              |
 | 48  | ConstrainedBox          | [YouTube](https://www.youtube.com/watch?v=o2KveVr7adg) | [Docs](https://api.flutter.dev/flutter/widgets/ConstrainedBox-class.html)         |
 | 49  | Stack                   | [YouTube](https://www.youtube.com/watch?v=o2KveVr7adg) | [Docs](https://api.flutter.dev/flutter/widgets/Stack-class.html)                  |
+| 50  | AnimatedOpacity         | [YouTube](https://www.youtube.com/watch?v=QZAvjqOqiLY) | [Docs](https://api.flutter.dev/flutter/widgets/AnimatedOpacity-class.html)        |
 
-<!-- | AAA | AAA         | YouTube                                                | Docs                                                                | -->
 <!-- | AAA | AAA         | YouTube                                                | Docs                                                                | -->
