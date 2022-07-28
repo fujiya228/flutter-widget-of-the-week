@@ -55,5 +55,6 @@
 | 50  | AnimatedOpacity         | [YouTube](https://www.youtube.com/watch?v=QZAvjqOqiLY) | [Docs](https://api.flutter.dev/flutter/widgets/AnimatedOpacity-class.html)        |
 | 51  | FractionallySizedBox    | [YouTube](https://www.youtube.com/watch?v=PEsY654EGZ0) | [Docs](https://api.flutter.dev/flutter/widgets/FractionallySizedBox-class.html)   |
 | 52  | ListView                | [YouTube](https://www.youtube.com/watch?v=KJpkjHGiI5A) | [Docs](https://api.flutter.dev/flutter/widgets/ListView-class.html)               |
+| 53  | ListTile                | [YouTube](https://www.youtube.com/watch?v=l8dj0yPBvgQ) | [Docs](https://api.flutter.dev/flutter/material/ListTile-class.html)              |
 
 <!-- | AAA | AAA         | YouTube                                                | Docs                                                                | -->
