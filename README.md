@@ -54,5 +54,6 @@
 | 49  | Stack                   | [YouTube](https://www.youtube.com/watch?v=o2KveVr7adg) | [Docs](https://api.flutter.dev/flutter/widgets/Stack-class.html)                  |
 | 50  | AnimatedOpacity         | [YouTube](https://www.youtube.com/watch?v=QZAvjqOqiLY) | [Docs](https://api.flutter.dev/flutter/widgets/AnimatedOpacity-class.html)        |
 | 51  | FractionallySizedBox    | [YouTube](https://www.youtube.com/watch?v=PEsY654EGZ0) | [Docs](https://api.flutter.dev/flutter/widgets/FractionallySizedBox-class.html)   |
+| 52  | ListView                | [YouTube](https://www.youtube.com/watch?v=KJpkjHGiI5A) | [Docs](https://api.flutter.dev/flutter/widgets/ListView-class.html)               |
 
 <!-- | AAA | AAA         | YouTube                                                | Docs                                                                | -->
