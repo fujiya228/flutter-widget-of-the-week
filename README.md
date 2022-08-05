@@ -58,5 +58,6 @@
 | 53  | ListTile                | [YouTube](https://www.youtube.com/watch?v=l8dj0yPBvgQ) | [Docs](https://api.flutter.dev/flutter/material/ListTile-class.html)              |
 | 54  | Container               | [YouTube](https://www.youtube.com/watch?v=c1xLMaTUWCY) | [Docs](https://api.flutter.dev/flutter/widgets/Container-class.html)              |
 | 55  | DataTable               | [YouTube](https://www.youtube.com/watch?v=ktTajqbhIcY) | [Docs](https://api.flutter.dev/flutter/material/DataTable-class.html)             |
+| 56  | Slider                  | [YouTube](https://www.youtube.com/watch?v=ufb4gIPDmEs) | [Docs](https://api.flutter.dev/flutter/material/Slider-class.html)                |
 
 <!-- | AAA | AAA         | YouTube                                                | Docs                                                                | -->
