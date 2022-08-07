@@ -60,5 +60,6 @@
 | 55  | DataTable               | [YouTube](https://www.youtube.com/watch?v=ktTajqbhIcY) | [Docs](https://api.flutter.dev/flutter/material/DataTable-class.html)             |
 | 56  | Slider                  | [YouTube](https://www.youtube.com/watch?v=ufb4gIPDmEs) | [Docs](https://api.flutter.dev/flutter/material/Slider-class.html)                |
 | 57  | AlertDialog             | [YouTube](https://www.youtube.com/watch?v=75CsnyRXf5I) | [Docs](https://api.flutter.dev/flutter/material/AlertDialog-class.html)           |
+| 58 | AnimatedCrossFade         | [YouTube](https://www.youtube.com/watch?v=PGK2UUAyE54)                                                | [Docs](https://api.flutter.dev/flutter/widgets/AnimatedCrossFade-class.html)                                                                |
 
 <!-- | AAA | AAA         | YouTube                                                | Docs                                                                | -->

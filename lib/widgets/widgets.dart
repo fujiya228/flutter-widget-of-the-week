@@ -56,6 +56,7 @@ import 'pages/page054.dart';
 import 'pages/page055.dart';
 import 'pages/page056.dart';
 import 'pages/page057.dart';
+import 'pages/page058.dart';
 
 class WidgetPage {
   WidgetPage({
@@ -68,6 +69,7 @@ class WidgetPage {
 }
 
 final widgetPages = <WidgetPage>[
+  WidgetPage(title: 'No. 058 AnimatedCrossFade', widget: const Page058()),
   WidgetPage(title: 'No. 057 AlertDialog', widget: const Page057()),
   WidgetPage(title: 'No. 056 Slider', widget: const Page056()),
   WidgetPage(title: 'No. 055 DataTable', widget: const Page055()),
