@@ -62,5 +62,6 @@
 | 57  | AlertDialog              | [YouTube](https://www.youtube.com/watch?v=75CsnyRXf5I) | [Docs](https://api.flutter.dev/flutter/material/AlertDialog-class.html)             |
 | 58  | AnimatedCrossFade        | [YouTube](https://www.youtube.com/watch?v=PGK2UUAyE54) | [Docs](https://api.flutter.dev/flutter/widgets/AnimatedCrossFade-class.html)        |
 | 59  | DraggableScrollableSheet | [YouTube](https://www.youtube.com/watch?v=Hgw819mL_78) | [Docs](https://api.flutter.dev/flutter/widgets/DraggableScrollableSheet-class.html) |
+| 60  | ColorFiltered            | [YouTube](https://www.youtube.com/watch?v=F7Cll22Dno8) | [Docs](https://api.flutter.dev/flutter/widgets/ColorFiltered-class.html)            |
 
 <!-- | AAA | AAA         | YouTube                                                | Docs                                                                | -->
