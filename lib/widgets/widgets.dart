@@ -67,6 +67,7 @@ import 'pages/page065.dart';
 import 'pages/page066.dart';
 import 'pages/page067.dart';
 import 'pages/page068.dart';
+import 'pages/page069.dart';
 
 class WidgetPage {
   WidgetPage({
@@ -79,6 +80,7 @@ class WidgetPage {
 }
 
 final widgetPages = <WidgetPage>[
+  WidgetPage(title: 'No. 069 ShaderMask', widget: const Page069()),
   WidgetPage(title: 'No. 068 ListWheelScrollView', widget: const Page068()),
   WidgetPage(title: 'No. 067 SnackBar', widget: const Page067()),
   WidgetPage(title: 'No. 066 Drawer', widget: const Page066()),

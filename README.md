@@ -71,5 +71,6 @@
 | 66  | Drawer                   | [YouTube](https://www.youtube.com/watch?v=WRj86iHihgY) | [Docs](https://api.flutter.dev/flutter/material/Drawer-class.html)                  |
 | 67  | SnackBar                 | [YouTube](https://www.youtube.com/watch?v=zpO6n_oZWw0) | [Docs](https://api.flutter.dev/flutter/material/SnackBar-class.html)                |
 | 68  | ListWheelScrollView      | [YouTube](https://www.youtube.com/watch?v=dUhmWAz4C7Y) | [Docs](https://api.flutter.dev/flutter/widgets/ListWheelScrollView-class.html)      |
+| 69  | ShaderMask               | [YouTube](https://www.youtube.com/watch?v=7sUL66pTQ7Q) | [Docs](https://api.flutter.dev/flutter/widgets/ShaderMask-class.html)               |
 
 <!-- | AAA | AAA         | YouTube                                                | Docs                                                                | -->
