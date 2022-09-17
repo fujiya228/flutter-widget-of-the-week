@@ -72,5 +72,6 @@
 | 67  | SnackBar                 | [YouTube](https://www.youtube.com/watch?v=zpO6n_oZWw0) | [Docs](https://api.flutter.dev/flutter/material/SnackBar-class.html)                |
 | 68  | ListWheelScrollView      | [YouTube](https://www.youtube.com/watch?v=dUhmWAz4C7Y) | [Docs](https://api.flutter.dev/flutter/widgets/ListWheelScrollView-class.html)      |
 | 69  | ShaderMask               | [YouTube](https://www.youtube.com/watch?v=7sUL66pTQ7Q) | [Docs](https://api.flutter.dev/flutter/widgets/ShaderMask-class.html)               |
+| 70  | NotificationListener     | [YouTube](https://www.youtube.com/watch?v=cAnFbFoGM50) | [Docs](https://api.flutter.dev/flutter/widgets/NotificationListener-class.html)     |
 
 <!-- | AAA | AAA         | YouTube                                                | Docs                                                                | -->
